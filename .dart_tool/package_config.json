@@ -122,6 +122,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_lints",
+      "rootUri": "file:///home/lelick/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///home/lelick/snap/flutter/common/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -136,6 +142,12 @@
     {
       "name": "html",
       "rootUri": "file:///home/lelick/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///home/lelick/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -212,6 +224,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "surf_lint_rules",
+      "rootUri": "file:///home/lelick/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/surf_lint_rules-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
       "name": "term_glyph",
       "rootUri": "file:///home/lelick/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
       "packageUri": "lib/",
@@ -260,7 +278,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-07-11T16:31:53.649313Z",
+  "generated": "2022-07-11T16:59:38.142092Z",
   "generator": "pub",
   "generatorVersion": "2.17.5"
 }

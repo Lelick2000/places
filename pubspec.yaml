@@ -15,6 +15,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   dart_code_metrics: ^4.16.0
+  surf_lint_rules: ^1.5.0
 
 dev_dependencies:
   flutter_test:
@@ -22,12 +23,14 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - res/assets/
   fonts:
     - family: Roboto
       fonts:
-        - asset: res/fonts/Roboto-Light.ttf
-        - asset: res/fonts/Roboto-Thin.ttf
-        - asset: res/fonts/Roboto-Italic.ttf
+        - asset: res/assets/fonts/Roboto/Roboto-Light.ttf
+        - asset: res/assets/fonts/Roboto/Roboto-Thin.ttf
+        - asset: res/assets/fonts/Roboto/Roboto-Italic.ttf
 
 analyzer:
   exclude:
