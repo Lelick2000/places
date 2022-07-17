@@ -18,18 +18,7 @@ class _SightListScreenState extends State<SightListScreen> {
         titleSpacing: 16,
         backgroundColor: Colors.white,
         elevation: 0,
-        title: /*const Text(
-          'Список\nинтересных мест',
-          maxLines: 2,
-          textAlign: TextAlign.left,
-          style: TextStyle(
-            fontSize: 32,
-            color: Colors.black,
-            fontFamily: 'Roboto',
-            fontWeight: FontWeight.w700,
-          ),
-        )*/
-            RichText(
+        title: RichText(
           maxLines: 2,
           text: const TextSpan(
             text: 'С',
